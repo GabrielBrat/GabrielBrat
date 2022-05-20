@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gabriel Leonardo.
 
-- 🔭 Atualmente trabalho com ADVPL.
+- 🔭 Atualmente trabalhando com ADVPL.
 - 🌱 Estudando "C".
 - 👯 Prestador de serviços na CodeCraftersBR.
 
