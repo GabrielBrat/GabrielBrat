@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a), me chamo Gabriel Leonardo, e este é meu perfil! 😁
 
  <div>
    <a href="https://github.com/GabrielBrat">
